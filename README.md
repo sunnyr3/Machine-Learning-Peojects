@@ -4,9 +4,9 @@
 I started studying ML in late May 2018. I took a free online course series by [Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome) and some other online tutorials. 
 
 
-## Upcoming: 
-### House Prices with Advanced Regression Techniques
+## House Prices with Advanced Regression Techniques
 This is another ML project from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and I am going to predict the final price of each house.
+* [First Solution](https://github.com/sunnysakura13/Machine-Learning-Peojects/blob/master/Kaggle%20House%20Prices/House%20Prices%20Solution.ipynb) (7/16/2018): **Top 24% on Kaggle**
 
 
 ## Titanic: Machine Learning from Disaster
